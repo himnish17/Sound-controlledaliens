@@ -1,0 +1,32 @@
+body{
+    font-family: 'Combo', cursive;
+    background-color: #a565e6;
+}
+.header_div{
+    background-color: #f25769;
+    color: #4df08b;
+}
+.header_div p{
+    font-family: 'Cairo', sans-serif;
+    color: #f5e218;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: 'Cairo', sans-serif;
+    margin: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer{
+    position: fixed;
+    color:chocolate;
+    background-color: rgba(0, 204, 255, 0.459);
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    text-shadow: 5px 5px 5px grey;
+    line-height: 3;
+}
